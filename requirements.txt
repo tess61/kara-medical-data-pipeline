@@ -9,3 +9,4 @@ dagster
 dagster-webserver
 sqlalchemy
 pydantic
+telethon
