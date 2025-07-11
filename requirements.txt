@@ -1,0 +1,11 @@
+python-telegram-bot
+python-dotenv
+psycopg2-binary
+dbt-postgres
+ultralytics
+fastapi
+uvicorn
+dagster
+dagster-webserver
+sqlalchemy
+pydantic

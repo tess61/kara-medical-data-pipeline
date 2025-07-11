@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Envs & Secrets
+.env
+
+# Data
+data/
+
+# Docker
+*.log
